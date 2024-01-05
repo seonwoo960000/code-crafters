@@ -1,0 +1,3 @@
+remote: [your_program] DnsMessage{targetAddress=/127.0.0.1:44445, header=DnsHeader{id=9867, qr=0, opcode=0, aa=0, tc=0, rd=1, ra=0, z=0, rcode=0, qdcount=1, ancount=0, nscount=0, arcount=0}, questions=[DnsQuestion{domain='codecrafters.io', type=A, clazz=IN}], answers=[]}
+
+remote: [your_program] DnsMessage{targetAddress=/127.0.0.1:55688, header=DnsHeader{id=9867, qr=0, opcode=1, aa=0, tc=0, rd=1, ra=0, z=0, rcode=0, qdcount=1, ancount=0, nscount=0, arcount=0}, questions=[DnsQuestion{domain='codecrafters.io', type=A, clazz=IN}], answers=[]}
